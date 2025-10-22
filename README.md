@@ -11,4 +11,4 @@ To work around this issue, I decided to try exporting a 3D model with **the same
 
 ---
 
-### I will likely leave this project in standby for now.
+will likely leave this project in standby for now.
