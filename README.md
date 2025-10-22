@@ -1,5 +1,11 @@
-# Mod Luigi per DDRMM
+# Mod per DDRMM
 
-# after extracting the .bin mdl files and converting them into .obj, visualized in blender they look to be like a disorganized sequence of coordinates. Upon this issue,
-# i decided to try a way around this, by exporting a 3d model with the same amount of vertices into an .obj, and then convert that file into a .bin and add it to the
-# game files.
+After extracting the `.bin` files containing **.mdl** models and converting them into `.obj`, I noticed that in **Blender** they appear as a disorganized sequence of coordinates.  
+To work around this issue, I decided to try exporting a 3D model with **the same number of vertices** into an `.obj`, then converting that file back into a `.bin` and adding it to the game files.
+
+---
+
+## Preview
+
+![Luigi Preview](./screenshot.png)
+
