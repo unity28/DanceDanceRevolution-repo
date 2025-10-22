@@ -9,4 +9,4 @@ To work around this issue, I decided to try exporting a 3D model with **the same
 
 ![Luigi Preview](https://github.com/unity28/DanceDanceRevolution-repo/blob/main/screenshot.png)
 
-
+I will likely leave this project in standby for now.
