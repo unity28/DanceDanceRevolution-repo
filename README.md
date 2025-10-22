@@ -7,5 +7,6 @@ To work around this issue, I decided to try exporting a 3D model with **the same
 
 ## Preview
 
-![Luigi Preview](./screenshot.png)
+![Luigi Preview](https://github.com/unity28/DanceDanceRevolution-repo/blob/main/screenshot.png)
+
 
